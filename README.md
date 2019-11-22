@@ -6,6 +6,6 @@ Course homework finished code
 
 [Course Adress](https://www.coursera.org/learn/machine-learning/home/info)
 
-FINISH on 2019.11.20
+### Finish on 2019.11.20
 
 ![certificate](https://github.com/ChrisCN97/Stanford-ML-Code-Practice/blob/master/certificate.png)
