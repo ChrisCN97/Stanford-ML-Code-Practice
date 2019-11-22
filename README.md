@@ -8,3 +8,4 @@ Course homework completed code
 
 FINISH on 2019.11.20
 
+![certificate](https://github.com/ChrisCN97/Stanford-ML-Code-Practice/blob/master/certificate.png)
