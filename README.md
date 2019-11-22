@@ -2,7 +2,7 @@
 
 Coursera machine-learning by Andrew Ng
 
-Course homework completed code
+Course homework finished code
 
 [Course Adress](https://www.coursera.org/learn/machine-learning/home/info)
 
